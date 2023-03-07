@@ -1,0 +1,100 @@
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+/*nav section starts here*/
+.head-nav{
+    background-color: rgb(109, 124, 109);
+}
+#navbarNav{
+    text-align: center;
+}
+.log{
+    width: 60px;
+    height: auto;
+    
+}
+.nav-item:hover{
+    border: solid 3px black;
+    padding: 1px;
+    color: rgb(230, 219, 219);
+    border-radius: 10%;
+    background-color: rgb(110, 58, 255);
+    color: rgb(241, 237, 237) !important;
+    
+}
+.nav-link:hover{
+
+}
+.navbar-nav li a:hover{
+    color: antiquewhite !important;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: rgb(14, 11, 11) !important;
+    font-weight: 600;
+}
+/*nav section ends here*/
+/*conatact starst here*/
+
+.contact-me-head{
+    margin-top: 120px;
+    margin-left: 70px;
+}
+.contact-me-pragraph{
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.play-btn{
+    width: 45px;
+    margin: 20px;
+    margin-left: 60px;
+}
+#contact-me a{
+    text-decoration: none;
+    color: white;
+    
+}
+.image{
+    width: 150px;
+    margin-top: 60px;
+    margin-left: 110px;
+}
+/*conatact ends here*/
+#service{
+    padding: 5% 10%;
+}
+.image-service{
+    width: 150px;
+    
+    margin-top: 60px;
+    margin-left: 110px;
+}
+.service-hader{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.service-pragraph{
+    margin-left: 70px;
+}
+.clip{
+    transition: 0.4s;
+}
+.clip:hover{
+    border: solid 4px;
+    transform: scale(1.1);
+    border-radius: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.hexa{
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+}
